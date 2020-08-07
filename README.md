@@ -10,9 +10,9 @@ A bit about me ... mostly in pictures
 
 ![river](https://github.com/i-marsh/i-marsh/blob/master/images/landscape-river-1.jpeg)
 
-<div align="center">
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/kayak1.JPG"  height="200px" />
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/kayak2.jpeg" height="200px"/>
+
 </div>
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/portrait-river-1.JPG" />
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/portrait-bridge-1.jpeg" />
@@ -44,6 +44,7 @@ A bit about me ... mostly in pictures
 I also like to play the markets :)
 
 ---
+
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/elite.jpeg">
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/elite-dangerous.jpeg">
 <img src="https://github.com/i-marsh/i-marsh/blob/master/images/then-now.png">
