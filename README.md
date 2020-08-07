@@ -11,7 +11,7 @@ A bit about me ... mostly in pictures
 ![river](images/landscape-river-1.jpeg)
 
 <div align="center">
-<img src="images/kayak1.JPG"  height="200px" />
+<img src="https://github.com/i-marsh/i-marsh/images/kayak1.JPG"  height="200px" />
 <img src="images/kayak2.jpeg" height="200px"/>
 </div>
 <img src="images/portrait-river-1.JPG" />
