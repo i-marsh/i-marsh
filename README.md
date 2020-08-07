@@ -37,7 +37,7 @@ A bit about me ... mostly in pictures
 <img src="images/oscar.jpg" width="auto"/>
 </div>
 <center>
-<img align="center" src="images/dog.jpeg" width="300" />
+<img src="images/dog.jpeg" width="300" />
 <br>
 
 ---
@@ -47,4 +47,4 @@ I also like to play the markets :)
 <img src="images/elite.jpeg">
 <img src="images/elite-dangerous.jpeg">
 <img src="images/then-now.png">
-<center>
+</center>
