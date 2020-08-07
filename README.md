@@ -19,12 +19,12 @@ A bit about me ... mostly in pictures
 
 ---
 <div align="center" width="100%">
-<img src="images/oldchair.jpeg" height=200>
+<img src="images/oldchair.jpeg" width="50%">
 </div>
 
 <div align="center">
   <p>old chair</p>
-  <img src="images/newchair.jpeg" height=200>
+  <img src="images/newchair.jpeg" width="50%">
   <p>new chair</p>
 </div>
 
@@ -38,4 +38,13 @@ A bit about me ... mostly in pictures
 </div>
 <center>
 <img align="center" src="images/dog.jpeg" width="300" />
+<br>
+
+---
+I also like to play the markets :)
+
+---
+<img src="images/elite.jpeg">
+<img src="images/elite-dangerous.jpeg">
+<img src="images/then-now.png">
 <center>
